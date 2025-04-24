@@ -1,6 +1,7 @@
 # Panel Administrativo con React y Vite
 
-Este proyecto es un panel administrativo desarrollado con React, Vite y Bootstrap.
+Este proyecto es un panel administrativo desarrollado con React, Vite y Bootstrap
+para una tienda de venta de muebles.
 
 ## Características
 
